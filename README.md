@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @JosueOb
-- 👀 I'm interested in deep learning.
+- 👀 I'm interested in deep learning and TDD/DDD.
 - 🌱 I'm currently learning software architecture.
 
 <!---
