@@ -1,6 +1,8 @@
 - 👋 Hi, I'm @JosueOb
 - 👀 I'm interested in deep learning and TDD/DDD.
 - 🌱 I'm currently learning software architecture.
+- 🌱 I'm a cat lover.
+
 
 <!---
 JosueOb/JosueOb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
