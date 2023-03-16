@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @JosueOb
+- 👋 Hi, I'm a developer @JosueOb
 - 👀 I'm interested in deep learning and TDD/DDD.
 - 🌱 I'm currently learning software architecture.
 - :heart_eyes_cat: I'm a cat lover.
