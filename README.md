@@ -2,6 +2,7 @@
 - 👀 I'm interested in deep learning and TDD/DDD.
 - 🌱 I'm currently learning software architecture.
 - :heart_eyes_cat: I'm a cat lover.
+- 🎧 I always listen to all kinds of music.
 
 
 <!---
