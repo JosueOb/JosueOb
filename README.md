@@ -1,6 +1,6 @@
 - 👋 Hi, I'm a developer @JosueOb.
 - 👀 I'm interested in deep learning and TDD/DDD.
-- 🌱 I'm currently learning software architecture.
+- 🌱 I'm currently learning software architecture and design patterns.
 - :heart_eyes_cat: I'm a cat lover.
 - 🎧 I always listen to all kinds of music.
 
